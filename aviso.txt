@@ -1,5 +1,0 @@
-﻿clientes - solo acomodar base de datos
-empleados - acomodar base de datos
-rutinas - acomodar base de datos
-caja - acomodar base de datos 
-gastos -  acomodar base de datos, acomodar los nombres no los toma
